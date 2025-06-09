@@ -1,0 +1,27 @@
+site_name: Casper Møller Frederiksen, PhD - Research & Publications
+site_url: https://cmfrederiksen-lab.github.io/research
+repo_url: https://github.com/cmfrederiksen-lab/research
+repo_name: View on GitHub
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Publications:
+    - By Year: publications/by_year.md
+    - By Topic: publications/by_topic.md
+  - Research:
+    - Research Topics: research/topics.md
+    - DALY-CARE Project: research/daly_care.md
+    - Research Statistics: research/statistics.md
