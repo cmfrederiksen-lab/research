@@ -7,5 +7,3 @@ This page presents a quantitative overview of Dr. Frederiksen's publication reco
 * **Total Publications (from provided list):** 12
     * *Note: This count is based on a specific PubMed export and may not be exhaustive.*
 
-
-
